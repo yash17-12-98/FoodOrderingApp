@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Full Menu">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:title="Combo Meal"
+                    android:id="@+id/nav_comboMeal"
+                    android:icon="@drawable/combomeal"></item>
+                <item
+                    android:title="Beverages"
+                    android:id="@+id/nav_beverages"
+                    android:icon="@drawable/beverages"></item>
+                <item
+                    android:title="Breakfast"
+                    android:id="@+id/nav_breakfast"
+                    android:icon="@drawable/breakfast"></item>
+                <item
+                    android:title="Burgers"
+                    android:id="@+id/nav_burgers"
+                    android:icon="@drawable/burger"></item>
+                <item
+                    android:title="Bakery"
+                    android:id="@+id/nav_bakery"
+                    android:icon="@drawable/bakery"></item>
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="share">
+        <menu>
+
+            <group android:checkableBehavior="none">
+                <item
+                    android:title="Rate Us"
+                    android:id="@+id/nav_rateUs"
+                    android:icon="@drawable/starrate"></item>
+                <item
+                    android:title="Share"
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share"></item>
+                <item
+                    android:title="About us"
+                    android:id="@+id/nav_aboutUs"
+                    android:icon="@drawable/aboutus"></item>
+
+            </group>
+        </menu>
+    </item>
+</menu>

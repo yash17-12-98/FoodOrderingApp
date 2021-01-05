@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740742961879",
+    "project_id": "hellofoodie-51571",
+    "storage_bucket": "hellofoodie-51571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740742961879:android:d852852258f5444ee1ee92",
+        "android_client_info": {
+          "package_name": "com.yashuthar.foodorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740742961879-0pmlpvd1a4p5j7tp3dhmao13g4n3sven.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfeKGTwtZNQnPTKaOZHlZgFtHI4AKA6uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740742961879-0pmlpvd1a4p5j7tp3dhmao13g4n3sven.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
